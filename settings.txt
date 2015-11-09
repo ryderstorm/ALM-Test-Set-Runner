@@ -1,0 +1,22 @@
+# This file contains the settings used by the application.
+# Commented line start with a '#' and are ignored by the application.
+# Blank lines are also ignored.
+# Each setting must be in the format 'setting_name=setting_value'.
+# Otherwise it will not be picked up by the application.
+# All settings must be filled out or the application will error!
+
+# ALM settings
+qcserver=
+alm_user=
+alm_password=
+alm_domain=
+alm_project=
+test_set_path=
+test_set_name=
+test_host=
+
+# this is the number of seconds to wait before checking the folder for a new xml file
+wait_period=30
+
+# make sure that file paths use forward slashes(/) and NOT backslashes(\)
+xml_watch_folder=
